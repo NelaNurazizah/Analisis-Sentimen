@@ -4,6 +4,6 @@ scikit-learn
 matplotlib
 seaborn
 sastrawi
-tensorflow-cpu==2.13.0
+tensorflow==2.13.0
 flask
 wordcloud
